@@ -13,8 +13,8 @@
     padding-bottom: 124px;
 
     @include media-breakpoint-up(md) {
-      padding-top: 170px;
-      padding-bottom: 170px;
+      padding-top: 140px;
+      padding-bottom: 140px;
       // padding-bottom: 80px;
     }
 
@@ -58,7 +58,7 @@
       margin-bottom: 24px;
       font-size: 20px;
       line-height: 30px;
-      color: #ffffff;
+      color: #ffffffaa;
       max-width: 420px;
 
       @include media-breakpoint-up(md) {
@@ -67,18 +67,31 @@
     }
 
     .btn {
+      &.text {
+        display: inline-flex;
+        margin-left: 32px;
+        color: #ffffff !important;
+
+        svg,
+        * {
+          // fill: white;
+          stroke: white !important;
+          color: white !important;
+        }
+      }
       @include media-breakpoint-up(sm) {
         display: inline-block;
 
         &.text {
           display: inline-flex;
           margin-left: 32px;
-          color: #ffffff;
+          color: #ffffff !important;
 
-          svg, * {
-            fill: white;
-            stroke: white;
-            color: white;
+          svg,
+          * {
+            // fill: white;
+            stroke: white !important;
+            color: white !important;
           }
         }
       }
@@ -93,8 +106,6 @@
       padding-top: 120px;
       padding-bottom: 100px;
     }
-
-
 
     h2 {
       text-align: center;

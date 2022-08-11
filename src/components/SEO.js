@@ -28,7 +28,7 @@ function SEO({ description, title, bodyClass, image = null }) {
       <meta name="og:title" content={title || defaultTitle} />
       <meta name="og:description" content={description || defaultDescription} />
       <meta name="og:type" content="website" />
-      <link rel="icon" type="image/svg+xml" href="/media/img/Logo Solid.png"></link>
+      <link rel="icon" type="image/svg+xml" href="/media/img/logos/favicon.png"></link>
       <meta name="og:image" content={image || `https://jellydevelopment.com/media/img/SEO.png?test=true`} />
       <meta name="twitter:image" content={image || `https://jellydevelopment.com/media/img/SEO.png?test=true`} />
       <meta name="twitter:card" content="summary_large_image" />

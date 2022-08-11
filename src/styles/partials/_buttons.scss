@@ -19,6 +19,10 @@
   transition: .2s ease;
   display: block;
   width: fit-content;
+  font-family: "Oswald";
+  text-transform: uppercase;
+  font-weight: 400;
+  letter-spacing: .6px;
 
   &::after {
     width: 100%;
