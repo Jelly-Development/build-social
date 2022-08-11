@@ -15,8 +15,7 @@ const Home = () => {
       <div id="wrapper" className="wrapper">
         <section className="hero">
           <div className="hero__image">
-
-          <img src="/media/img/hero.jpg" alt="" />
+            <img src="/media/img/hero.jpg" alt="" />
           </div>
           <div className="container">
             <div className="row">
@@ -46,36 +45,48 @@ const Home = () => {
             <div className="container">
               <div className="row">
                 <div className="col-lg-8 offset-lg-2 max-560">
-                  <p className="display">WHAT WE DO</p>
+                  <p className="display">HOW WE DO IT</p>
                   <h2>Let us do the hard stuff.</h2>
                   <p className="section-description">
-                    We’ll build you an amazing website, so you can focus on what matters: keeping your users happy and growing your business.
+                    We know that running a business takes a lot of time. That's why we handle everything from thumbnails to branding, so you don't have to.
                   </p>
                 </div>
               </div>
               <div className="row">
                 <div className="col-md-6 col-lg-4">
                   <div className="feature">
-                    <img width="83" height="64" src="/media/img/icons/icon--target.svg" alt="Target icon" />
-                    <h3>Get more potential customers to your site</h3>
-                    <p>Finding potential customers is a pain, and SEO isn't easy either.</p>
-                    <p>We'll optimize your website so more people can find you, and convert them into new customers.</p>
+                    <div className="feature__image">
+                      <img src="/media/img/icons/target.svg" alt="Target icon" />
+                    </div>
+                    <div className="feature__content">
+                      <h3>Reach the right people</h3>
+                      <p>Finding the right people to turn into clients is hard.</p>
+                      <p>We'll optimize your social media so more people can find you, and you can convert them into new clients.</p>
+                    </div>
                   </div>
                 </div>
                 <div className="col-md-6 col-lg-4">
                   <div className="feature">
-                    <img width="74" height="70" src="/media/img/icons/icon--bolt.svg" alt="Thundercloud icon" />
-                    <h3>Keep your visitors on your site longer</h3>
-                    <p>46% of visitors don't come back if your website doesn't load fast.</p>
-                    <p>We'll build your website to load in the blink of an eye, so you don't lose potential business.</p>
+                    <div className="feature__image">
+                      <img src="/media/img/icons/bolt.svg" alt="Thundercloud icon" />
+                    </div>
+                    <div className="feature__content">
+                      <h3>Become the expert in your industry</h3>
+                      <p>You can't convert clients if they don't trust you.</p>
+                      <p>We help you say and do the right things so you can become an industry expert.</p>
+                    </div>
                   </div>
                 </div>
                 <div className="col-md-6 col-lg-4">
                   <div className="feature">
-                    <img width="86" height="65" src="/media/img/icons/icon--badge.svg" alt="Badge icon" />
-                    <h3>Showcase your brand to your visitors effortlessly</h3>
-                    <p>Letting your visitors know what you're about is tough.</p>
-                    <p>We'll make sure your website effectively communicates your brand - and looks great while doing it.</p>
+                    <div className="feature__image">
+                      <img src="/media/img/icons/badge.svg" alt="Badge icon" />
+                    </div>
+                    <div className="feature__content">
+                      <h3>Showcase your brand to your visitors effortlessly</h3>
+                      <p>Letting your visitors know what you're about is tough.</p>
+                      <p>We'll make sure your website effectively communicates your brand - and looks great while doing it.</p>
+                    </div>
                   </div>
                 </div>
               </div>
