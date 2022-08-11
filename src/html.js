@@ -12,6 +12,9 @@ export default function HTML(props) {
         {props.headComponents}
         {/* <script async src="https://cdn.splitbee.io/sb.js"></script> */}
         {/* <script async defer data-domain="jellydevelopment.com" src="https://plausible.io/js/plausible.js"></script> */}
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500&display=swap" rel="stylesheet"></link>
       </head>
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}
