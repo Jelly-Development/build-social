@@ -415,11 +415,34 @@
       box-shadow: 2px 2px 40px 0px #44455510;
       padding: 32px;
 
+      background: rgba(11, 33, 85, 0.122);
+      background: $color--gray-two;
+      background: $color--primary;
+      // border: 2px solid $color--secondary;
+      padding: 32px;
+      height: 100%;
+      padding-top: 48px;
+      border-radius: 6px;
+      // margin-top: -64px;
+      clip-path: polygon(0 12%, 100% 0, 100% 100%, 0% 100%);
+
+      * {
+        color: white;
+      }
+
       p {
         margin: 0;
         // font-size: 18px;
         // line-height: 28px;
         font-weight: 300;
+        color: #ffffffaa;
+        font-size: 15px;
+        line-height: 26px;
+
+        @include media-breakpoint-up(md) {
+          font-size: 16px;
+          line-height: 28px;
+        }
 
         &:first-child {
           margin-bottom: 16px;
@@ -427,6 +450,7 @@
 
         &:last-child {
           font-weight: 400;
+          color: white;
         }
       }
     }
@@ -437,6 +461,8 @@
     position: relative;
     overflow: visible;
     // margin-top: 159px;
+    clip-path: polygon(0 11%, 100% 0, 100% 100%, 0% 100%);
+    padding-top: 120px;
 
     @include media-breakpoint-up(lg) {
       background-size: contain;

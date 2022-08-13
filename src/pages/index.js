@@ -48,7 +48,8 @@ const Home = () => {
                   <p className="display">FULLY MANAGED YOUTUBE OUTREACH</p>
                   <h2>Stick with what you know, and let us handle the rest</h2>
                   <p className="section-description">
-                    We know that running a business takes a lot of time. That's why we handle every aspect of your YouTube channel, so you can focus on your clients.
+                    We know that running a business takes a lot of time. That's why we handle every aspect of your YouTube channel, so you can focus on your
+                    clients.
                   </p>
                 </div>
               </div>
@@ -120,15 +121,30 @@ const Home = () => {
               <div className="col-lg-8 offset-lg-2 max-560">
                 <p className="display">WHAT PEOPLE SAY</p>
                 <h2 className="section-heading">Don’t settle for anything less than incredible.</h2>
-                <p className="section-description">At Jelly Development, we’re proud to say we go all in to bring the best websites we can to our clients.</p>
+                <p className="section-description">At Build Social, we’re proud to say we go all in to bring more customers to our clients.</p>
               </div>
               <div className="row">
                 <div className="col-md-6">
                   <div className="testimonial">
-                    <p>
-                      I had hired Jelly Development to create a landing page for a new product of mine, I gave them minimal requirements and they knocked it out
-                      of the ballpark with needing minimal changes. Definitely recommend and will be using them more often.
-                    </p>
+                    <p>I had hired Build Social to do some stuff and they did it. They did amazing stuff. I'm blown away by the quality of their work.</p>
+                    <p>- Josh Manders | CEO of Primcloud</p>
+                  </div>
+                </div>
+                <div className="col-md-6">
+                  <div className="testimonial">
+                    <p>I had hired Build Social to do some stuff and they did it. They did amazing stuff. I'm blown away by the quality of their work.</p>
+                    <p>- Josh Manders | CEO of Primcloud</p>
+                  </div>
+                </div>
+                <div className="col-md-6">
+                  <div className="testimonial">
+                    <p>I had hired Build Social to do some stuff and they did it. They did amazing stuff. I'm blown away by the quality of their work.</p>
+                    <p>- Josh Manders | CEO of Primcloud</p>
+                  </div>
+                </div>
+                <div className="col-md-6">
+                  <div className="testimonial">
+                    <p>I had hired Build Social to do some stuff and they did it. They did amazing stuff. I'm blown away by the quality of their work.</p>
                     <p>- Josh Manders | CEO of Primcloud</p>
                   </div>
                 </div>
@@ -154,8 +170,6 @@ const Home = () => {
             </div>
           </section>
           <section className="cta">
-            <img role="presentation" src="/media/img/backgrounds/wave--dark.svg" alt="" className="wave" />
-            <img role="presentation" alt="" className="blob" src="/media/img/backgrounds/blob--dark.svg" />
             <img role="presentation" alt="" className="blobs" src="/media/img/backgrounds/blobs--dark.svg" />
             <div className="container">
               <div className="row">
