@@ -83,7 +83,7 @@ const Home = () => {
                       <img src="/media/img/icons/badge.svg" alt="Badge icon" />
                     </div>
                     <div className="feature__content">
-                      <h3>Showcase your brand to your visitors effortlessly</h3>
+                      <h3>Showcase your brand to your visitors</h3>
                       <p>Letting your visitors know what you're about is tough.</p>
                       <p>We'll make sure your website effectively communicates your brand - and looks great while doing it.</p>
                     </div>

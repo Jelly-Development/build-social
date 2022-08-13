@@ -174,7 +174,12 @@
       }
 
       .feature__content {
-        background: $color--primary;
+        // background: $color--secondary;
+        // background: $color-
+        background: rgba(11, 33, 85, 0.122);
+        background: $color--gray-two;
+        background: $color--secondary;
+        // border: 2px solid $color--secondary;
         padding: 32px;
         height: 100%;
         padding-top: 64px;
