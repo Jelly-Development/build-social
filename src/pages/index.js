@@ -19,10 +19,10 @@ const Home = () => {
           </div>
           <div className="container">
             <div className="row">
-              <div className="col-md-10 col-lg-8 col-xl-6">
-                <h1>Get more customers from your social media</h1>
+              <div className="col-md-10 col-xl-6">
+                <h1>Get more clients with managed YouTube outreach</h1>
                 <p className="section-description">
-                  Getting paying customers from your social media is hard. We make it easy by analyzing and optimizing your social media for you.
+                  Getting new clients is hard. We make it easy by analyzing and optimizing a brand new YouTube channel for you.
                 </p>
                 {/* <p className="section-description">We combine design, branding, SEO and copywriting to craft the perfect website for you and your customers.</p> */}
 
@@ -45,10 +45,10 @@ const Home = () => {
             <div className="container">
               <div className="row">
                 <div className="col-lg-8 offset-lg-2 max-560">
-                  <p className="display">HOW WE DO IT</p>
-                  <h2>Let us do the hard stuff.</h2>
+                  <p className="display">FULLY MANAGED YOUTUBE OUTREACH</p>
+                  <h2>Stick with what you know, and let us handle the rest</h2>
                   <p className="section-description">
-                    We know that running a business takes a lot of time. That's why we handle everything from thumbnails to branding, so you don't have to.
+                    We know that running a business takes a lot of time. That's why we handle every aspect of your YouTube channel, so you can focus on your clients.
                   </p>
                 </div>
               </div>
@@ -98,10 +98,10 @@ const Home = () => {
             <div className="container">
               <div className="row">
                 <div className="col-lg-8 offset-lg-2 max-560">
-                  <h2>Ready to chat about your new website?</h2>
+                  <h2>Want to know exactly what we can do for you?</h2>
                   <div className="d-flex">
-                    <a href="/get-started" className="btn mr-4">
-                      I’m ready for a new website
+                    <a href="/get-started" className="btn mr-md-4">
+                      I’m ready to talk
                     </a>
                     <a href="/contact" className="btn text">
                       I've got questions{" "}

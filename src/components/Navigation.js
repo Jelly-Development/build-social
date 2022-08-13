@@ -9,8 +9,7 @@ const Navigation = () => {
         <div className="menu__wrapper">
           <div className="logo" id="logo">
             <a href="/" aria-label="Build Social Homepage">
-              {/* <img src="/media/img/logos/logo__horizontal--red.png" alt="" /> */}
-              <img src="/media/img/logos/logo__horizontal--mix--white.png" alt="" />
+              <img src="/media/img/logos/logo__horizontal--red.png" alt="" />
             </a>
           </div>
           <div className="mobile-menu__toggle">
