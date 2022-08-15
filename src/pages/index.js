@@ -175,7 +175,7 @@ const Home = () => {
               <div className="row">
                 <div className="col-lg-8 offset-lg-2 max-560">
                   <p className="display">CONTACT US</p>
-                  <h2 className="section-heading">Let's discuss your new website.</h2>
+                  <h2 className="section-heading">Let's get started today.</h2>
                   <div className="card">
                     <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
                       <p class="hidden">
@@ -199,7 +199,7 @@ const Home = () => {
                         <div className="col-lg-12">
                           <label name="message">
                             Message? <span>*</span>
-                            <textarea required id="message" name="message" placeholder="I've got some questions about a new website" />
+                            <textarea required id="message" name="message" placeholder="I've got some questions" />
                           </label>
                         </div>
                         <div className="col-lg-12">
@@ -207,7 +207,7 @@ const Home = () => {
                         </div>
                       </div>
                       <p className="subtext">
-                        or email us at <a href="mailto:sales@jellydevelopment.com">sales@jellydevelopment.com</a>
+                        or email us at <a href="mailto:info@buildoutsocial.com">info@buildoutsocial.com</a>
                       </p>
                     </form>
                   </div>

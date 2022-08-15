@@ -57,16 +57,16 @@ const Contact = () => {
                           <div className="col-lg-12">
                             <label name="message">
                               Message? <span>*</span>
-                              <textarea required id="message" name="message" placeholder="I've got some questions about a new website" />
+                              <textarea required id="message" name="message" placeholder="I've got some questions" />
                             </label>
                           </div>
                           <div className="col-lg-12">
                             <input type="submit" value="Let's chat!" className="btn" />
                           </div>
                         </div>
-                        <p className="subtext">
-                          or email us at <a href="mailto:sales@jellydevelopment.com">sales@jellydevelopment.com</a>
-                        </p>
+                      <p className="subtext">
+                        or email us at <a href="mailto:info@buildoutsocial.com">info@buildoutsocial.com</a>
+                      </p>
                       </form>
                     </div>
                   </div>

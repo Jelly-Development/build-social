@@ -348,12 +348,12 @@
   }
 
   .testimonials {
-    padding-bottom: 240px;
+    padding-bottom: 40px;
     padding-top: 80px;
     // background: $color--primary-lightest;
 
     @include media-breakpoint-up(md) {
-      padding-bottom: 260px;
+      padding-bottom: 60px;
       padding-top: 100px;
     }
 
@@ -414,7 +414,6 @@
       border: 1px solid #dfdfdf;
       box-shadow: 2px 2px 40px 0px #44455510;
       padding: 32px;
-
       background: rgba(11, 33, 85, 0.122);
       background: $color--gray-two;
       background: $color--primary;
@@ -462,7 +461,7 @@
     overflow: visible;
     // margin-top: 159px;
     clip-path: polygon(0 11%, 100% 0, 100% 100%, 0% 100%);
-    padding-top: 120px;
+    padding-top: 140px;
 
     @include media-breakpoint-up(lg) {
       background-size: contain;
@@ -533,6 +532,8 @@
       margin: 0 auto;
       max-width: 500px;
       border-radius: 8px;
+      border-bottom-right-radius: 8px !important;
+      border-bottom-left-radius: 8px !important;
       box-shadow: 2px 2px 40px 0px #7879961a;
       padding: 32px;
 
