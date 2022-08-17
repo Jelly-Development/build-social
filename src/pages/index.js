@@ -20,9 +20,10 @@ const Home = () => {
           <div className="container">
             <div className="row">
               <div className="col-md-10 col-xl-6">
-                <h1>Get more clients with managed YouTube outreach</h1>
+                {/* <h1>Get more clients with managed YouTube outreach</h1> */}
+                <h1>Get qualified buyers in your local market with managed YouTube outreach</h1>
                 <p className="section-description">
-                  Getting new clients is hard. We make it easy by analyzing and optimizing a brand new YouTube channel for you.
+                  Getting ready-to-go buyers in your market is hard. We make it easy by analyzing and optimizing your social brand with YouTube.
                 </p>
                 {/* <p className="section-description">We combine design, branding, SEO and copywriting to craft the perfect website for you and your customers.</p> */}
 
@@ -45,11 +46,10 @@ const Home = () => {
             <div className="container">
               <div className="row">
                 <div className="col-lg-8 offset-lg-2 max-560">
-                  <p className="display">FULLY MANAGED YOUTUBE OUTREACH</p>
+                  <p className="display">FULLY MANAGED YOUTUBE HELP</p>
                   <h2>Stick with what you know, and let us handle the rest</h2>
                   <p className="section-description">
-                    We know that running a business takes a lot of time. That's why we handle every aspect of your YouTube channel, so you can focus on your
-                    clients.
+                    We know that editing, scripting, thumbnails and YouTube analytics isn't what you're used to. We let you help people buy and sell homes in your market, while we handle the dirty work online.
                   </p>
                 </div>
               </div>
@@ -60,9 +60,9 @@ const Home = () => {
                       <img src="/media/img/icons/target.svg" alt="Target icon" />
                     </div>
                     <div className="feature__content">
-                      <h3>Reach the right people</h3>
-                      <p>Finding the right people to turn into clients is hard.</p>
-                      <p>We'll optimize your social media so more people can find you, and you can convert them into new clients.</p>
+                      <h3>Drive Business To You</h3>
+                      <p>Getting the phone to ring can be difficult.</p>
+                      <p>That's why that's our sole focus. Through YouTube and our targeted SEO, we will drive opportunities to your phone.</p>
                     </div>
                   </div>
                 </div>
@@ -72,9 +72,9 @@ const Home = () => {
                       <img src="/media/img/icons/bolt.svg" alt="Thundercloud icon" />
                     </div>
                     <div className="feature__content">
-                      <h3>Become the expert in your industry</h3>
-                      <p>You can't convert clients if they don't trust you.</p>
-                      <p>We help you say and do the right things so you can become an industry expert.</p>
+                      <h3>Increase your conversion</h3>
+                      <p>People do business with who they like, know and trust.</p>
+                      <p>By positioning you as the expert in your field, we give you the opportunity to capture the most business in your area, increasing your credibility and revenue.</p>
                     </div>
                   </div>
                 </div>
@@ -84,9 +84,9 @@ const Home = () => {
                       <img src="/media/img/icons/badge.svg" alt="Badge icon" />
                     </div>
                     <div className="feature__content">
-                      <h3>Showcase your brand to your visitors</h3>
-                      <p>Letting your visitors know what you're about is tough.</p>
-                      <p>We'll make sure your website effectively communicates your brand - and looks great while doing it.</p>
+                      <h3>Showcase your brand</h3>
+                      <p>Letting people know what you're about is crucial.</p>
+                      <p>We'll help you unleash a powerful brand that sets you apart from your competition. Any direct prospecting that you do in your farm will lead to easier "come list me" opportunities, because they already know who you are.</p>
                     </div>
                   </div>
                 </div>
