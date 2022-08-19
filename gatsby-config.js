@@ -3,7 +3,7 @@ module.exports = {
     title: `Custom website design & development`,
     description: `Get the perfect website for your SaaS, designed to be blazing fast, fully accessible and to increase your conversions and MRR.`,
     author: `@jarodpeachey`,
-    siteUrl: "https://jellydevelopment.com",
+    siteUrl: "https://buildoutsocial.com",
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
