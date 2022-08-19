@@ -1,22 +1,23 @@
 module.exports = {
   siteMetadata: {
-    title: `Custom website design & development`,
-    description: `Get the perfect website for your SaaS, designed to be blazing fast, fully accessible and to increase your conversions and MRR.`,
+    title: `
+Get qualified buyers in your local market with managed YouTube outreach`,
+    description: `Getting ready-to-go buyers in your market is hard. We make it easy by analyzing and optimizing your social brand with YouTube.`,
     author: `@jarodpeachey`,
     siteUrl: "https://buildoutsocial.com",
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
-    {
-      resolve: "gatsby-source-cosmicjs",
-      options: {
-        bucketSlug: "jelly-development-production", // Bucket Slug
-        objectTypes: ["posts"], // List of the Object Types you want to be able to request from Gatsby.
-        apiAccess: {
-          read_key: "vA17oFFhuUlFosf6AJhSjW0J9u3cyA63XgYEe7NzSYEJr5vpn9",
-        },
-      },
-    },
+    // {
+    //   resolve: "gatsby-source-cosmicjs",
+    //   options: {
+    //     bucketSlug: "jelly-development-production", // Bucket Slug
+    //     objectTypes: ["posts"], // List of the Object Types you want to be able to request from Gatsby.
+    //     apiAccess: {
+    //       read_key: "vA17oFFhuUlFosf6AJhSjW0J9u3cyA63XgYEe7NzSYEJr5vpn9",
+    //     },
+    //   },
+    // },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
