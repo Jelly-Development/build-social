@@ -94,8 +94,8 @@ const Home = () => {
             </div>
           </section>
           <section className="chat">
-            <img role="presentation" alt="" className="blob" src="/media/img/backgrounds/blob.svg" />
-            <img role="presentation" alt="" className="blobs" src="/media/img/backgrounds/blobs.svg" />
+            {/* <img role="presentation" alt="" className="blob" src="/media/img/backgrounds/blob.svg" /> */}
+            {/* <img role="presentation" alt="" className="blobs" src="/media/img/backgrounds/blobs.svg" /> */}
             <div className="container">
               <div className="row">
                 <div className="col-lg-8 offset-lg-2 max-560">
@@ -126,8 +126,8 @@ const Home = () => {
               <div className="row">
                 <div className="col-md-6">
                   <div className="testimonial">
-                    <p>Before I connected with Build Social I though I was doing great. But I knew I was missing pieces and no matter what courses I took, it seemed like things were still being held back.</p>
-                    <p>The minute I got in with Build Social and I listened and watched, they transformed the trajectory of my chanel growth and the amount of leads that flowed in had me scrambling for help. Now my channel produces side sponsorships and has given me opportunities to leverage myself as a trusted real estate influencer on YouTube.</p>
+                    <p>Before I connected with Build Social I thought I was doing great. But I knew I was missing pieces and no matter what courses I took, it seemed like things were still being held back.</p>
+                    <p>The minute I got in with Build Social and I listened and watched, they transformed the trajectory of my channel growth and the amount of leads that flowed in had me scrambling for help. Now my channel produces side sponsorships and has given me opportunities to leverage myself as a trusted real estate influencer on YouTube.</p>
                     <p>- Greg Langhaim</p>
                   </div>
                 </div>
