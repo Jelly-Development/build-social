@@ -7,7 +7,7 @@ import Footer from "../components/Footer";
 const Home = () => {
   return (
     <>
-      <SEO bodyClass="home" title="Custom SaaS Websites | Jelly Development" />
+      <SEO bodyClass="home" />
 
       <header>
         <Navigation />
