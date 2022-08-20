@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `
-Get qualified buyers in your local market with managed YouTube outreach`,
+Build Social | Get qualified buyers with managed YouTube outreach`,
     description: `Getting ready-to-go buyers in your market is hard. We make it easy by analyzing and optimizing your social brand with YouTube.`,
     author: `@jarodpeachey`,
     siteUrl: "https://buildoutsocial.com",
