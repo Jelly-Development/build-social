@@ -27,7 +27,7 @@ const Home = () => {
                 </p>
                 {/* <p className="section-description">We combine design, branding, SEO and copywriting to craft the perfect website for you and your customers.</p> */}
 
-                <a href="/get-started" className="btn dark">
+                <a href="/contact" className="btn dark">
                   Let’s get more customers
                 </a>
                 <a href="#services" className="btn text">
@@ -101,7 +101,7 @@ const Home = () => {
                 <div className="col-lg-8 offset-lg-2 max-560">
                   <h2>Want to know exactly what we can do for you?</h2>
                   <div className="d-flex">
-                    <a href="/get-started" className="btn mr-md-4">
+                    <a href="/contact" className="btn mr-md-4">
                       I’m ready to talk
                     </a>
                     <a href="/contact" className="btn text">

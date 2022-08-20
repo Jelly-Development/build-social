@@ -42,7 +42,7 @@
 //                   <img role="presentation" alt="" className="blobs" src="/media/img/backgrounds/blobs--dark.svg" />
 //                   <h2>Ready to chat about your new website?</h2>
 //                   <div className="d-flex">
-//                     <a href="/get-started" className="btn mr-4">
+//                     <a href="/contact" className="btn mr-4">
 //                       I’m ready for a new website
 //                     </a>
 //                     <a href="/contact" className="btn text">
