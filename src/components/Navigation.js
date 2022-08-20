@@ -32,7 +32,7 @@ const Navigation = () => {
                 </a>
               </li>
               <li>
-                <a href="/get-started" className="btn primary dark">
+                <a href="/contact" className="btn primary dark">
                   Get started
                 </a>
               </li>
