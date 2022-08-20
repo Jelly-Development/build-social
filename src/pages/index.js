@@ -62,7 +62,7 @@ const Home = () => {
                     <div className="feature__content">
                       <h3>Drive Business To You</h3>
                       <p>Getting the phone to ring can be difficult.</p>
-                      <p>That's why that's our sole focus. Through YouTube and our targeted SEO, we will drive opportunities to your phone.</p>
+                      <p>Out sole focus is to get clients calling you by utilizing the power of YouTube and our targeted SEO program.</p>
                     </div>
                   </div>
                 </div>
@@ -126,26 +126,15 @@ const Home = () => {
               <div className="row">
                 <div className="col-md-6">
                   <div className="testimonial">
-                    <p>I had hired Build Social to do some stuff and they did it. They did amazing stuff. I'm blown away by the quality of their work.</p>
-                    <p>- Josh Manders | CEO of Primcloud</p>
+                    <p>Before I connected with Build Social I though I was doing great. But I knew I was missing pieces and no matter what courses I took, it seemed like things were still being held back.</p>
+                    <p>The minute I got in with Build Social and I listened and watched, they transformed the trajectory of my chanel growth and the amount of leads that flowed in had me scrambling for help. Now my channel produces side sponsorships and has given me opportunities to leverage myself as a trusted real estate influencer on YouTube.</p>
+                    <p>- Greg Langhaim</p>
                   </div>
                 </div>
                 <div className="col-md-6">
                   <div className="testimonial">
-                    <p>I had hired Build Social to do some stuff and they did it. They did amazing stuff. I'm blown away by the quality of their work.</p>
-                    <p>- Josh Manders | CEO of Primcloud</p>
-                  </div>
-                </div>
-                <div className="col-md-6">
-                  <div className="testimonial">
-                    <p>I had hired Build Social to do some stuff and they did it. They did amazing stuff. I'm blown away by the quality of their work.</p>
-                    <p>- Josh Manders | CEO of Primcloud</p>
-                  </div>
-                </div>
-                <div className="col-md-6">
-                  <div className="testimonial">
-                    <p>I had hired Build Social to do some stuff and they did it. They did amazing stuff. I'm blown away by the quality of their work.</p>
-                    <p>- Josh Manders | CEO of Primcloud</p>
+                    <p>Utilizing their proven methods, the team at Build Social has grown our YouTube channel to over 30,000 subscribers.</p>
+                    <p>- Able Family Life</p>
                   </div>
                 </div>
                 {/* <div className="col-md-6">
